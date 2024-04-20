@@ -79,8 +79,17 @@ pngout.png
 out/
 
 # Visual Studio
-.vs/
+.DS_Store
+.vs
+*.user
+*.nupkg
 !pngstest/
 !pngtest/
 !pngunknown/
 !pngvalid/
+ARM
+ARM64
+Debug
+Release
+Debug Library
+Release Library
