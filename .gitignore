@@ -77,3 +77,10 @@ pngout.png
 
 # Libpng CI artifacts
 out/
+
+# Visual Studio
+.vs/
+!pngstest/
+!pngtest/
+!pngunknown/
+!pngvalid/
